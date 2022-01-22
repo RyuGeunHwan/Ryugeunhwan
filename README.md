@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyuGeunHwan&count_bg=%23ED00DD&title_bg=%232CE5BC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=120&section=header&text=ni_na_no%20World&fontColor=FF61F6&fontSize=77&rotate=-7&animation=blinking)
-<img src="https://img.shields.io/badge/JAVA-white?style=flat&logo=JAVA&logoColor=FF7800"/>
+<img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuGeunHwan&theme=monokai&show_icons=monokai)
 
