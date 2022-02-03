@@ -6,7 +6,7 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyuGeunHwan&count_bg=%23ED00DD&title_bg=%232CE5BC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/HTML-green?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-red?style=flat&logo=MYSQL&logoColor=white"/><img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/HTML-green?style=flat&logo=html5&logoColor=white"/>
 
  
 
