@@ -2,9 +2,6 @@
 
 
 # <div align="center"> 🌻 me 🌻<br><a href="https://www.instagram.com/ni_na_n0/"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> 
-
-  
-### 🌴 🌴 🌴 🌴 🌴 🌴 🌴 다시 한번 꾸며보자🌴 🌴 🌴 🌴 🌴 🌴 🌴 
   </div>
   
 
