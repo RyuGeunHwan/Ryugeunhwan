@@ -7,7 +7,11 @@
 
  
  
-<img src="https://img.shields.io/badge/MYSQL-red?style=flat&logo=MYSQL&logoColor=white"/><img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/HTML-green?style=flat&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JS-yellow?style=flat&logo=JAVAScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-red?style=flat&logo=MYSQL&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/HTML-green?style=flat&logo=html5&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/JS-yellow?style=flat&logo=JAVAScript&logoColor=white"/><br>
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuGeunHwan&theme=monokai&show_icons=monokai)
