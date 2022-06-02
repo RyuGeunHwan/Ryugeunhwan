@@ -6,8 +6,8 @@
   
 
  
-<div align="center"><img src="https://img.shields.io/badge/git-orange?style=flat&logo=git&logoColor=white"/> </div>
- <div align="center"><img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/> <p>💪 My Skills :muscle: </p>  <img src="https://img.shields.io/badge/MYSQL-red?style=flat&logo=MYSQL&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white"/> <div align="center"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JAVAScript&logoColor=white"/> </div><div align="center"><img src="https://img.shields.io/badge/Spring Boot-green?style=flat&logo=Spring Boot&logoColor=white"/> </div>
+<div align="center"><img src="https://img.shields.io/badge/git-white?style=flat&logo=git&logoColor=orange"/> </div>
+ <div align="center"><img src="https://img.shields.io/badge/HTML-white?style=flat&logo=html5&logoColor=orange"/> <img src="https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=blue"/> <p>💪 My Skills :muscle: </p>  <img src="https://img.shields.io/badge/MYSQL-red?style=flat&logo=MYSQL&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white"/> <div align="center"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JAVAScript&logoColor=white"/> </div><div align="center"><img src="https://img.shields.io/badge/Spring Boot-green?style=flat&logo=Spring Boot&logoColor=white"/> </div>
 <div align="center">
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuGeunHwan&theme=monokai&show_icons=monokai)<br>
